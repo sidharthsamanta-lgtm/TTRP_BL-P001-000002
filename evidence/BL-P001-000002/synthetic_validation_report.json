@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "reconciliation_passed": true,
+  "source_rows": 5,
+  "summary_rows": 6,
+  "products": 1,
+  "months": {
+    "first": "2026-01",
+    "last": "2026-06"
+  },
+  "zero_activity_rows": 2,
+  "per_product": [
+    {
+      "Product_ID": "P001",
+      "source_quantity": 100.0,
+      "monthly_quantity_sum": 100.0,
+      "difference": 0.0,
+      "reconciled": true
+    }
+  ]
+}
